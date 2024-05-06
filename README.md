@@ -1,3 +1,5 @@
+Veuillez trouver ci-dessous une explication en anglais des commandes : Merge et Conflits.
+
 # merg-and-conflicts
 
 "Merge" and "conflicts" are two terms commonly used in the project management field, particularly in the context of software development and version control management with systems like Git.
