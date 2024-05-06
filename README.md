@@ -1,3 +1,6 @@
+Below, please find an explanation of the two commands : merge and conflits.
+
+
 # merg-and-conflicts
 
 "Merge" and "conflicts" are two terms commonly used in the project management field, particularly in the context of software development and version control management with systems like Git.
